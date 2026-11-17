@@ -1,5 +1,0 @@
-Python is a programming language.
-I learned about variables, lists and dictionaries.
-Functions help organise code.
-Classes and objects are used in OOP.
-Error handling helps prevent program crashes.
