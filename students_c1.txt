@@ -1,0 +1,10 @@
+1001,Alice,Smith,sd1001@uni123st.edu.au
+1002,Bob,Johnson,sd1002@uni123st.edu.au
+1003,Charlie,Brown,sd1003@uni123st.edu.au
+1004,David,Lee,sd1004@uni123st.edu.au
+1005,Emily,Davis,sd1005@uni123st.edu.au
+1006,Frank,Wilson,sd1006@uni123st.edu.au
+1007,Grace,Taylor,sd1007@uni123st.edu.au
+1008,Henry,Anderson,sd1008@uni123st.edu.au
+1009,Isabella,Thomas,sd1009@uni123st.edu.au
+1010,Jack,Hill,sd1010@uni123st.edu.au
